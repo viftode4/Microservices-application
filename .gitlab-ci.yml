@@ -1,0 +1,7 @@
+include:
+  - requests-microservice/.gitlab-ci.yml
+  - authentication-microservice/.gitlab-ci.yml
+  - contract-microservice/.gitlab-ci.yml
+  - example-microservice/.gitlab-ci.yml
+  - user-microservice/.gitlab-ci.yml
+  - notification-microservice/.gitlab-ci.yml
